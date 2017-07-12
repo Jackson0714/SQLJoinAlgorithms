@@ -21,7 +21,6 @@ namespace Join
             customers.Add(new Customer("FRANK", "Peter Franken"));
             customers.Add(new Customer("SAVEA", "Jose Pavarotti"));
             customers.Add(new Customer("TORTU", "Miguel Angel Paolino"));
-
         }
 
         public static void InitOrders()
